@@ -1,0 +1,48 @@
+<html>
+<head>
+    <title>Peerapath</title>
+</head>
+    <style>
+        body {
+            background-image: url("./7mKVlT.webp");
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            background-size: cover;
+        }
+    </style>
+    <header align="center">
+    <h2> Hello </h2>
+    </header>
+    <header align="center"><font-size=7>
+        <h3>Profile ของผม</h3>
+    <img src="./284150711_1428843400901476_1894348721711211990_n.jpg" width="300" height="400">
+        </font-size>
+    </header>
+    <main>
+       <table align="center" width="500px" border="1">
+           <tr>
+               <th>จุดแข็ง</th>
+               <th>จุดอ่อน</th>
+           </tr>
+           <tr>
+              <td>ชอบเล่นติ๊กต๊อก</td>
+              <td>ไม่มีเพื่อนเล่นด้วย</td>
+          </tr
+          <tr>
+              <td>ชอบพี่ปี2</td>
+              <td>เเต่เรามีแฟนแล้ว</td>
+          </tr>
+          <tr>
+              <td>ชอบนอนช้า</td>
+              <td>แต่ตื่นเร็ว</td>
+          </tr>
+       </table>
+            <h3 align =center></h3> 
+           <p align= center><img src="./284393289_967215667286775_2964587584236446016_n.jpg"  width="300" height="400"></p>
+    <head align = "center"> 
+    <video align="center" width="200" height="200" controls="controls">
+            <source src="./y2mate.com - D GERRARD  โลกคขนาน IsekaiOfficial MV_1080p.mp4" type="video/mp4">
+                </video>
+                </head>
+                 </video>
+                 </main>
